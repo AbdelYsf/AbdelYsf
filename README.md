@@ -11,3 +11,4 @@ Here are some ideas to get you started:-->
 - 📫 You can reach me on my [Linkedin account](https://www.linkedin.com/in/abdelysf/) or via my [Email](abdel.ysf@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=AbdelYsf)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AbdelYsf)
