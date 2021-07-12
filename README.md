@@ -7,12 +7,12 @@
 Here are some ideas to get you started:-->
 
 - 🌱 I’m currently learning **ReactJS** , **Spring cloud**
-- 💬 Ask me about anything you want
+- 💬 Ask me about **java** , **spring**
 - 📫 You can reach me on my [Linkedin account](https://www.linkedin.com/in/abdelysf/) or via my [Email](abdel.ysf@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=AbdelYsf) 
 
 ###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelYsf&hide=prs,issues&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelYsf&hide=prs,issues&show_icons=true&theme=gruvbox)
 ](https://github.com/anuraghazra/github-readme-stats)
 
