@@ -19,8 +19,11 @@ Here are some ideas to get you started:-->
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
 
+#### Frameworks
 
 
+https://img.shields.io/badge/-Spring-fff?&logo=Spring&logoColor=green
+https://img.shields.io/badge/-Hibernate-fff?&logo=Hibernate&logoColor=yellow
 
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelYsf&hide=prs,issues&show_icons=true)
