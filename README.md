@@ -23,7 +23,7 @@ Here are some ideas to get you started:-->
 
 
 [![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring&logoColor=green)]
-[![Hibernate](https://img.shields.io/badge/-Hibernate-fff?&logo=Hibernate&logoColor=yellow]
+
 
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelYsf&hide=prs,issues&show_icons=true)
