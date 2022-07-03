@@ -12,16 +12,6 @@ Here are some ideas to get you started:-->
 
 ![](https://komarev.com/ghpvc/?username=AbdelYsf) 
 
-#### Languages
-
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
-
-#### Frameworks
-
-
-[![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring&logoColor=green)]
-
 
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelYsf&hide=prs,issues&show_icons=true)
