@@ -15,7 +15,6 @@ Here are some ideas to get you started:-->
 #### Languages
 
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
-[![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)]
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
 
 #### Frameworks
