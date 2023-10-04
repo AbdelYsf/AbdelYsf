@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=Flask&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![Kafka](https://img.shields.io/badge/-Kafka-black?logo=Kafka&style=social)&nbsp;&nbsp;
+![Apachekafka](https://img.shields.io/badge/-Apachekafka-black?logo=Apachekafka&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=React&style=social)&nbsp;&nbsp;
