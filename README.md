@@ -29,7 +29,7 @@ Here are some ideas to get you started:-->
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelYsf&hide=prs,issues&show_icons=true)
 ](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelYsf&hide=TeX&layout=compact)
 
 ###
 
