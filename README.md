@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning **Python** , **Microservices** , **AWS**
-- 💬 Ask me about **java** , **spring**
+- 🌱 I’m currently learning **AWS**,**kubernates**
+- 💬 Ask me about **java** , **spring**, **python**,
 - 📫 You can reach me on my [Linkedin account](https://www.linkedin.com/in/abdelysf/) or via my [Email](abdel.ysf@gmail.com)
   
 
