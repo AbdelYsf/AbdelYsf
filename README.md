@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning **AWS**,**kubernates**
+- 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **java** , **spring**, **python**,
 - 📫 You can reach me on my [Linkedin account](https://www.linkedin.com/in/abdelysf/) or via my [Email](abdel.ysf@gmail.com)
   
